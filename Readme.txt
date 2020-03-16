@@ -1,19 +1,7 @@
-This maps extension is specifically designed to be used in conjunction with Doom RPG Rebalance.
+The Sentinel's Lexicon - PvE mapset Compilaition
 
-If you turn it on, the following will happen: 
+More info: https://forum.zdoom.org/viewtopic.php?p=1086396
 
-In the transport menu in the Outpost, you can switch between such well-known wads as:
+DoomRPG Rebalance 1.13 now supports this map pack.
 
-  – Alien Vendetta;
-  – Scythe 2;
-  – Plutonia 2;
-  – Memento Mori;
-  – Memento Mori 2;
-  – Requiem;
-  – Jenesis;
-  – Hell Revealed;
-  – Hell Revealed 2;
-  – Speed of Doom;
-  – Vanguard.
-  
-  Enjoy!
+Enjoy!
